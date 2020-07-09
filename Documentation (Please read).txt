@@ -1,0 +1,27 @@
+This program was designed to be ran from the command line.
+
+command line arguments (-i, -o, -e, -d, -r)
+
+-----------------------------------
+Part 1. 
+
+If you choose not to enter any of these arguments, the program will prompt the user for english words to be translated into Swedish. (e.g. "Merry Christmas") 
+
+(These English words must be contained in the Python Dictionary)
+
+-----------------------------------
+Part 2. 
+
+If you do choose to use these arguments, the program will either encode or decode a caesarian cipher by taking the text from an input file and writing the encoded/decoded text into an output file.
+
+- i: the name of the input file (e.g. -i input.txt)
+- o: the name of the output file (e.g. -o output.txt)
+- e: type this if you wish to encode
+- d: type this if you wish to decode
+- r: the number of shifts desired (e.g. -r 13 is rot-13). If no input for -r is selected, it defaults to 13.
+
+
+sample input for encoding rot-13: Python J00643490_Lab4.py -i input.txt -o output.txt -e -r 13
+
+Thank you!
+Alan 

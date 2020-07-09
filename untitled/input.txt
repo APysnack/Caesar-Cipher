@@ -1,0 +1,7 @@
+-- Enter any text in this document -- 
+Select whether you wish to encode or decode in the command line by entering either -e or -d
+Select the input file you want to read from (e.g. 'input.txt')
+Select the output file you want to write to (e.g. 'output.txt')
+Select how much you want to rotate by with -r (e.g. -r 13 for rot-13)
+
+Caesar cipher? I much prefer a caesar salad!
